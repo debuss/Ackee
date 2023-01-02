@@ -45,3 +45,7 @@ yarn test
 ```
 
 That's it, happy coding!
+
+## Re-deploy
+
+Little updates here to force a re-deploy on railway.app.
